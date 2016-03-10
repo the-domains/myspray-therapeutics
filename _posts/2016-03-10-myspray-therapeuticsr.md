@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: MySpray Therapeutics®
-datePublished: '2016-03-10T22:07:09.547Z'
-dateModified: '2016-03-10T22:07:01.149Z'
+datePublished: '2016-03-10T22:08:24.152Z'
+dateModified: '2016-03-10T22:08:04.193Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-10-myspray-therapeuticsr.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-myspray-therapeuticsr.md
-published: true
 url: myspray-therapeuticsr/index.html
 _type: Article
 
