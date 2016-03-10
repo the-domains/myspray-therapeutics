@@ -1,0 +1,28 @@
+name: MySpray Therapeutics
+favicon: null
+layout_spectrum: 0.3822464612312615
+typography_spectrum: 0.6798611271660775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.103324503172189
+  lightness: 0.1058681623544544
+  saturation: 0.5087077864445746
+  rhythmicContrast: 0.459113173186779
+purpose: []
