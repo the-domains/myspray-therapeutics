@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: MySpray Therapeutics®
-datePublished: '2016-03-10T22:22:02.138Z'
-dateModified: '2016-03-10T22:21:23.078Z'
+datePublished: '2016-03-11T17:29:38.294Z'
+dateModified: '2016-03-11T17:29:15.736Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-myspray-therapeuticsr.md
@@ -71,3 +71,4 @@ is our mission to revolutionize health products, through a convenient and
 highly absorbable delivery system.**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/62e1a3b3a164ea8a8027a3b9b5ac4775126de695.png)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec4f701f6efd88f15f446d1c5d64dcac755fcedf.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba6a6e1f-db19-4871-911e-8b102f1e7956.png)
